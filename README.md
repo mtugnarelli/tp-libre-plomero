@@ -21,9 +21,9 @@ reemplazando exclusivamente labrillos.
 
 ## Enunciado
 
-Implementar la clase `Plomero` a partir de la siguiente especificación: [`Plomero.java`](./src/Plomero.java).
+Implementar la clase `Plomero` a partir de la siguiente especificación: [`Plomero.java`](./src/plomeria/Plomero.java).
 
-Enumerado `Material`: [`Material.java`](./src/Material.java)
+Enumerado `Material`: [`Material.java`](./src/plomeria/Material.java)
 
 ### Ejemplo del array `pared`
 
@@ -47,7 +47,7 @@ por lo que no deberán cambiar la firma de sus métodos).
 
 ## Pruebas Unitarias
 
-Pruebas iniciales básicas con cañerías lineales y paredes completas: [`PruebaPlomeroPrincipiante.java`](./src/PruebaPlomeroPrincipiante.java)
+Pruebas iniciales básicas con cañerías lineales y paredes completas: [`PruebaPlomeroPrincipiante.java`](./src/plomeria/PruebaPlomeroPrincipiante.java)
 
-Pruebas que contemplan algunas condiciones que rompen el contrato: [`PruebaPlomeroPrecavido.java`](./src/PruebaPlomeroPrecavido.java)
+Pruebas que contemplan algunas condiciones que rompen el contrato: [`PruebaPlomeroPrecavido.java`](./src/plomeria/PruebaPlomeroPrecavido.java)
 
